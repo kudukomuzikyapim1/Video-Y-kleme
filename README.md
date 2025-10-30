@@ -1,1 +1,1 @@
-# Video-Y-kleme
+# Video-Y-kleme YouTube Kanallarınıza Video Yükleme YouTube'a Yükleyebiliyorsunuz Kuduko Müzik Yapım sayesinde YouTube Kanallarınıza Video Yükleme YouTube'a Yüklemek için Google Client'de YouTube Apı Key V3 ü Etkinleştirmeniz Gerekiyor https://console.cloud.google.com Etkinleştirdiğinizden sonra OAuth client ID oradan yapmanız gereken kısımları almanız gerekiyor Yapamıyorsanız Web sitemdeki Video Yükleme Seçeneğe Bakabilirsiniz https://kudukomuzikyapim.blogspot.com/p/video-yukleme.html
