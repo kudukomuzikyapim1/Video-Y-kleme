@@ -1300,8 +1300,7 @@
                     <p>Linkedin: https://www.linkedin.com/in/kudukom%C3%BCzikyap%C4%B1m/</p>
                     <p>Discogs: https://www.discogs.com/release/33396431-Kuduko-M%C3%BCzik-Yap%C4%B1m-Plak-%C5%9Eirketi</p>
                     <p>WhatsApp Grubumuza Katılın: https://grupbul.com/grup/645305</p>
-                    <p>Web site: https://kudukomuzikyapim.blogspot.com</p>
-                    <p>Mağaza: https://kudukomuzikyapim.company.site</p>
+                    <p>Web site: https://kudukomuzikyapimdijitalmuzikplatform.42web.io</p>
                     <p>℗ & © Kuduko Müzik Yapım. Tüm hakları saklıdır.</p>
                     <p id="releaseDateParagraph" style="margin-top: 10px; font-style: italic;"></p>
                 </div>
